@@ -4,7 +4,7 @@ Available here: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Self-Sup
 
 ---
 <div align="center">
-  <img src="samples/framework.png" alt="Framework" width="1000">
+  <img src="samples/framework.png" alt="Framework" width="500", height ="500">
 </div>
 
 
