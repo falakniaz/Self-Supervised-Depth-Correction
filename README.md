@@ -1,10 +1,10 @@
 # Self-Supervised Depth Correction via Temporal 3D Consistency under Ego-Motion
 
-<p>proposes an object-level, uncertainty-aware self-supervised refinement framework that learns adaptive 3D corrections under ego-motion using temporal geometric consistency, without requiring 3D bounding-box supervision. </p>
+<p>We proposed an object-level, uncertainty-aware self-supervised refinement framework that learns adaptive 3D corrections under ego-motion using temporal geometric consistency, without requiring 3D bounding-box supervision. </p>
 
 ---
 <div align="center">
-  <img src="samples/img_1.png" alt="Panoptic infrared sample" width="1000">
+  <img src="samples/framework.png" alt="Panoptic infrared sample" width="1000">
 </div>
 
 
@@ -27,14 +27,6 @@
 6. install tqdm, typing
 ```
 
----
-<h2><a class = "anchor" id="Getting Started"></a>Getting Started</h2>
-
-<h2><a class = "anchor" id="Semantic composer"></a>1. Semantic composer </h2>
-
-<div align="center">
-  <img src="samples/framework.png" alt="Panoptic infrared sample" width="1000">
-</div>
 
 ---
   <h2><a class = "anchor" id="Author & Contact"></a>Author & Contact </h2>
