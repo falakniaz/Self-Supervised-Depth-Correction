@@ -1,5 +1,5 @@
 # Self-Supervised Depth Correction via Temporal 3D Consistency under Ego-Motion
-
+Available here: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Self-Supervised+Depth+Correction+via+Temporal+3D+Consistency+under+Ego-Motion&btnG=
 <p>We proposed an object-level, uncertainty-aware self-supervised refinement framework that learns adaptive 3D corrections under ego-motion using temporal geometric consistency, without requiring 3D bounding-box supervision. </p>
 
 ---
